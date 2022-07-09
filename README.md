@@ -5,7 +5,8 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=AlexandreLima658&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandreLima658&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-    
+ 
+ ### Essas são algumas linguagens que venho trabalhando atualmente!
 <div style="display: inline_block"><br>
   <img align="center" alt="Ale-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ale-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
