@@ -1,4 +1,4 @@
-### Olá! Bem vindo ao meu github, me chamo Alexandre Lima 👋
+### Olá! Bem vindo ao meu github, me chamo Carlos Alexandre 👋
 ---
 <div align="center">
   <a href="https://github.com/AlexandreLima658">
