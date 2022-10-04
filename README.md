@@ -2,8 +2,8 @@
 ---
 <div align="center">
   <a href="https://github.com/AlexandreLima658">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=AlexandreLima658&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandreLima658&layout=compact&langs_count=7&theme=midnight-purple"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=AlexandreLima658&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandreLima658&layout=compact&langs_count=7&theme=algolia"/>
 </div>
  
  ### Essas são algumas linguagens que venho trabalhando atualmente!
