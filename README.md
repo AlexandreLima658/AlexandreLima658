@@ -1,26 +1,36 @@
-### Olá! Bem vindo ao meu github, me chamo Carlos Alexandre 👋
----
- 
- ### Essas são algumas linguagens que venho trabalhando atualmente!
-<div style="display: inline_block"><br>
-  <img align="center" alt="Ale-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Ale-Go" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg"> 
-  <img align="center" alt="Ale-TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"> 
-  <img align="center" alt="Ale-JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"> 
-  <img align="center" alt="Ale-Kotlin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg"> 
-</div>
-    
- ---
-<div>
-<a href="https://instagram.com/alexandrelima021" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" ></a>
- <a href = "mailto: alexandrec658@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/alexandreLimadev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-<!--   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg) -->
-   
+## Hi, welcome to my Github! 👋 <a href="https://www.linkedin.com/in/alexandrelimadev"><img height="20" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>
+
+<div align='center'>
+  <p align='left'>
+   &nbsp;&nbsp;👩🏻‍💻 I’m a software developer focused on FullStack 
+  </p>
 </div>
 
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="340px"/>
 
-
-    
   
+### 🧐 More About Me:
+- 🇧🇷 &nbsp; I’m from Brazil
+- 🎓 &nbsp; Graduated in Software Engineering at the Federal University of Ceará (UFC).
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/AlexandreLima658?tab=repositories)
+- 💬 &nbsp; Ask me about anything tech related, I am happy to help;
+- 📚 &nbsp; My hobbies are games, animation and reading.
+
+<br>
+
+### 🔨 My Favorite Languages and Tools:
+
+<a href="https://www.java.com/pt-br/" target="_blank"> <img align="left" alt="Java" height ="42px"  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/java/java.svg"> </a>
+
+<a href="https://www.typescriptlang.org/" target="_blank"><img align="left" alt="Typescirpt" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/typescript/typescript.svg"></a>
+
+<a href="https://angular.dev/" target="_blank"> <img align="left" alt="Angular" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/angular/angular.svg"></a>
+
+<a href="https://spring.io/" target="_blank"><img align="left" alt="Spring" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/spring/spring.svg"></a>
+
+<a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/docker/docker.svg" align="left" alt="Docker" height='42px'/> </a>
+
+<a href="https://www.golang.com" target="_blank"><img align="left" alt="Golang" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/go/go.svg"></a>
+
+<a href="https://www.javascript.com" target="_blank"><img align="left" alt="goalng" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg"></a>
+<br>
